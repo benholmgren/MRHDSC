@@ -18,8 +18,8 @@ email: mtruralhealth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
         Improving health throughout rural Montana
         using data science
-baseurl: "/MTRuralHealth" # the subpath of your site, e.g. /blog
-url: "benholmgren.github.io/MRHDSC" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mrhdsc" # the subpath of your site, e.g. /blog
+url: "benholmgren.github.io/mrhdsc" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  benholmgren
 
 # Build settings
